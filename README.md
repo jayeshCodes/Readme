@@ -14,10 +14,11 @@ My journey in the tech world is driven by curiosity and a desire to make a meani
 
 ## Skills
 
-- **Programming Languages**: Python, JavaScript, C++, Java
-- **AI/ML**: TensorFlow, PyTorch, Scikit-learn, LLMs, Transformers
-- **Web Development**: HTML, CSS, JavaScript, React, Node.js
-- **Tools & Technologies**: Git, Docker, Kubernetes, AWS, Google Cloud
+- **Programming Languages**: Java, C++, Python, C\#, JavaScript, TypeScript, PHP, HTML, CSS, Bash, C, MySQL, SQL, postgreSQL, Assembly
+- **AI/ML**: Pandas, Numpy, Keras, TensorFlow, Scikit-Learn, PyTorch, OpenCV, NLTK, SeaBorn, Generative AI, LLMs, Transformers
+- **Web Development**: ReactJS, React Native, FLASK, NodeJS, AngularJS, Spring Boot, MySQL Workbench, Cypress, Hadoop
+- **Tools & Technologies**: Git, AWS, Azure, Docker, Unity, Apache, \LaTeX, MongoDB, Tableau, Excel, Adobe Coldfusion
+- **Operating Systems**: Linux, MacOS, Windows, Unix
 - **Other**: AR/VR Development (Unity, C#), Automation with Selenium
 
 ## Future Aspirations
