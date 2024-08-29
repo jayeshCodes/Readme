@@ -1,7 +1,5 @@
 # Jayesh Gajbhar
 
-![Profile Image](path-to-your-image)
-
 ## About Me
 
 Hello! I'm Jayesh Gajbhar, a passionate computer science graduate student at North Carolina State University with a strong focus on Machine Learning and Artificial Intelligence. I have a solid background in software engineering and am always excited to explore the intersection of AI and software development to create innovative solutions.
